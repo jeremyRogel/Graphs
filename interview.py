@@ -9,6 +9,7 @@
 #for loop through the dict add the index of each value to the counter
 # getting values will use the dictionary_name.values()
 
+
 myDict = {
   "cat": "bob",
   "dog": 23,
